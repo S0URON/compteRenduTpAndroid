@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tp</string>
+    <string name="taille">Taille (cm)</string>
+    <string name="poid">Poids (kg)</string>
+    <string name="btnCalc">calculer IMC</string>
+    <string name="resultat"></string>
+</resources>
