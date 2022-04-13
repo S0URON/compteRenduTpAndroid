@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">conversion</string>
+    <string name="title">Conversion de Monnaie</string>
+    <string name="msg">saisir montant SVP</string>
+    <string name="radio1">Euro >> Dinar Tunisien</string>
+    <string name="radio2">Dinar Tunisien >> Euro</string>
+    <string name="btnConvertir">convertir</string>
+    <string name="resultat">result:...</string>
+</resources>
