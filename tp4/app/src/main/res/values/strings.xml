@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="textBienvenu">bienvenu encore une fois</string>
+    <string name="mainBtn">appuyer longement ici</string>
+    <string name="mainTitle">TODO App</string>
+    <string name="connectBtn">se connecter</string>
+    <string name="loginTitle">Login</string>
+    <string name="emailPlaceholder">Email</string>
+    <string name="passPlaceholder">Password</string>
+    <string name="loginBtn">LOGIN</string>
+    <string name="success_login_msg">Bienvenu !</string>
+    <string name="error_login_msg">erreur survenu lors de la tentative de connextion !</string>
+
+</resources>
